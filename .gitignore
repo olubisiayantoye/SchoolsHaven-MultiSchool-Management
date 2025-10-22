@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 
-
+/application/config/config-online.php
 application/config/config.php
 application/config/database.php
 application/config/autoload.php
