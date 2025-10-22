@@ -1,0 +1,33 @@
+[07-May-2021 21:01:39 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:01:39 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:01:39 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[07-May-2021 21:01:39 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[07-May-2021 21:01:39 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[07-May-2021 21:07:07 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:07:07 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:07:07 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[07-May-2021 21:07:07 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[07-May-2021 21:07:07 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[07-May-2021 21:11:37 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:11:37 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:11:37 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[07-May-2021 21:11:37 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[07-May-2021 21:11:37 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[07-May-2021 21:12:05 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:12:05 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:12:05 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[07-May-2021 21:12:05 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[07-May-2021 21:12:05 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[07-May-2021 21:12:07 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:12:07 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[07-May-2021 21:12:07 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[07-May-2021 21:12:07 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[07-May-2021 21:12:07 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[22-Sep-2022 12:13:24 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[22-Sep-2022 12:13:25 UTC] PHP Notice:  Undefined index: log_path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 127
+[22-Sep-2022 12:13:25 UTC] PHP Warning:  mkdir(): Invalid path in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 131
+[22-Sep-2022 12:13:25 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 138
+[22-Sep-2022 12:13:25 UTC] PHP Notice:  Undefined index: log_threshold in /home/berriezl/public_html/web_schoolshaven/elearning/system/core/Log.php on line 142
+[03-Nov-2024 10:12:21 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home1/berriezl/public_html/web_schoolshaven/elearning/application/helpers/multi_language_helper.php on line 70
+[03-Nov-2024 10:12:23 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home1/berriezl/public_html/web_schoolshaven/elearning/application/models/Crud_model.php on line 1763
+[03-Nov-2024 10:13:00 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home1/berriezl/public_html/web_schoolshaven/elearning/application/helpers/multi_language_helper.php on line 70
