@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/system
+/uploads
+/junkfolder
 /assets
 /.pnp
 .pnp.js
