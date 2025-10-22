@@ -7,10 +7,10 @@
 /application/config/config.php
 /application/config/database.php
 /application/config/autoload.php
-system
-uploads
-junkfolder
-assets
+/system
+/uploads
+/junkfolder
+/assets
 /.pnp
 .pnp.js
 
